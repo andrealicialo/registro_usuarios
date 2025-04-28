@@ -1,2 +1,2 @@
-# registro_usuarios
-El proyecto consiste en un formulario de registro con validaciones y restricciones
+# User registration
+The project consists of a registration form with validations and restrictions
